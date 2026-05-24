@@ -40,12 +40,12 @@ All widgets are hosted on GitHub Pages — paste the URL directly into OBS as a 
 | [**Challenge Wheel**](https://github.com/dexteritycs/Challenge-Wheel) | Channel points spin wheel — redeems trigger live spins in OBS via EventSub | [↗](https://dexteritycs.github.io/Challenge-Wheel/) |
 | [**Card Drop**](https://github.com/dexteritycs/Card-Drop) | TCG-style collectible card pulls triggered by channel points, 5 rarity tiers + holo effects | [↗](https://dexteritycs.github.io/Card-Drop/) |
 | [**Redeem Popup**](https://github.com/dexteritycs/redeem-popup) | On-stream notification card for any channel points redemption | [↗](https://dexteritycs.github.io/redeem-popup/) |
-| [**Twitch Clip Wall**](https://github.com/dexteritycs/Twitch-Clips) | BRB screen that auto-cycles your recent clips via native MP4 playback **(WIP)** | [↗](https://dexteritycs.github.io/Twitch-Clips/) |
-| [**CS2 Stats Overlay**](https://github.com/dexteritycs/cs2-stats-overlay) | Live HUD pulling K/D, Win Rate, Premier Rating from Tracker.gg via Railway proxy **(WIP)** | [↗](https://dexteritycs.github.io/) |
+| [**Twitch Clip Wall**](https://github.com/dexteritycs/Twitch-Clips) | BRB screen that auto-cycles your recent clips via native MP4 playback *(WIP)* | [↗](https://dexteritycs.github.io/Twitch-Clips/) |
+| [**CS2 Stats Overlay**](https://github.com/dexteritycs/cs2-stats-overlay) | Live HUD pulling K/D, Win Rate, Premier Rating from Tracker.gg via Railway proxy *(WIP)* | [↗](https://dexteritycs.github.io/) |
 
 ---
 
-## CS2 Twitter Bot **(WIP)**
+## CS2 Twitter Bot
 
 Automated [@dexterity_cs](https://twitter.com/dexterity_cs) posting engine. Runs locally, uses Claude AI to generate tweets in-voice across 6 content types (tips, hot takes, pro scene news, results, promos, polls) on a schedule tuned for peak CS2 engagement windows.
 
@@ -74,6 +74,8 @@ Every tool here is built around one constraint: **it has to work as a GitHub Pag
 <div align="center">
 
 *Stream tools for streamers, by a streamer.*
+
+[![Ko-fi](https://img.shields.io/badge/Support%20on%20Ko--fi-ff8c1e?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/DexterityCS)
 
 [![Visitors](https://visitor-badge.liter.workers.dev/badge?page_id=dexteritycs.dexteritycs)](https://github.com/dexteritycs)
 
