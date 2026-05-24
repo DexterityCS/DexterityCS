@@ -8,6 +8,12 @@
 ██████╔╝███████╗██╔╝ ██╗   ██║   ███████╗██║  ██║██║   ██║      ██║   
 ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝  
 ```
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dexteritycs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=ff8c1e&title_color=ff8c1e)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dexteritycs&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8c1e)
+
+</div>
 
 **CS2 Premier · Twitch Streamer · Stream Tool Developer**
 
