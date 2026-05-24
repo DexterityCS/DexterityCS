@@ -9,7 +9,7 @@
 ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝  
 ```
 
-**CS2 Premier · Twitch Streamer · Stream Tool Developer**
+**CS2 Enthusiast · Twitch Streamer · Stream Tool Developer**
 
 [![Twitch](https://img.shields.io/badge/Twitch-dexterity__cs-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/dexterity_cs)
 [![Twitter](https://img.shields.io/badge/Twitter-@dexterity__cs-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dexterity_cs)
