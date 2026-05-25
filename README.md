@@ -42,6 +42,7 @@ All widgets are hosted on GitHub Pages — paste the URL directly into OBS as a 
 | [**Redeem Popup**](https://github.com/dexteritycs/redeem-popup) | On-stream notification card for any channel points redemption | [↗](https://dexteritycs.github.io/redeem-popup/) |
 | [**Twitch Clip Wall**](https://github.com/dexteritycs/Twitch-Clips) | BRB screen that auto-cycles your recent clips via native MP4 playback *(WIP)* | [↗](https://dexteritycs.github.io/Twitch-Clips/) |
 | [**CS2 Stats Overlay**](https://github.com/dexteritycs/cs2-stats-overlay) | Live HUD pulling K/D, Win Rate, Premier Rating from Tracker.gg via Railway proxy *(WIP)* | [↗](https://dexteritycs.github.io/) |
+| [**CS2 Hot Takes**](https://github.com/DexterityCS/CS2-Hot-Takes) | Channel points-triggered spicy CS2 hot takes delivered live on stream | [↗](https://dexteritycs.github.io/CS2-Hot-Takes/) |
 
 ---
 
@@ -52,6 +53,15 @@ Automated [@dexterity_cs](https://twitter.com/dexterity_cs) posting engine. Runs
 → [**dexteritycs/cs2-twitter-bot**](https://github.com/dexteritycs/cs2-twitter-bot)
 
 ---
+ 
+## Skin Sniper
+ 
+Personal CS2 skin arbitrage tool. Pulls live prices from CSFloat, Skinport, and Steam simultaneously and surfaces deals where the spread makes a flip profitable. Node.js Express backend with a local dashboard.
+ 
+→ [**dexteritycs/Skin-Sniper**](https://github.com/dexteritycs/Skin-Sniper)
+ 
+---
+
 
 ## Tech Stack
 
