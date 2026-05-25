@@ -26,7 +26,7 @@ CS2 Premier player and Twitch streamer who builds the stream tools I actually wa
 - 🎮 **CS2** — Peak 13,475 Premier rating (Season 4)
 - 📡 **Streaming** — [twitch.tv/dexterity_cs](https://twitch.tv/dexterity_cs)
 - 🛠️ **Building** — Twitch overlays, channel points integrations, stream automation
-- 🌐 **Stack** — Vanilla JS · Node.js · GitHub Pages · Railway · Twitch EventSub API
+- 🌐 **Stack** — Vanilla JS · Node.js · GitHub Pages · Twitch EventSub API
 
 ---
 
