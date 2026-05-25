@@ -69,7 +69,7 @@ Personal CS2 skin arbitrage tool. Pulls live prices from CSFloat, Skinport, and 
 Languages      JavaScript  ·  HTML/CSS  ·  Node.js
 APIs           Twitch EventSub  ·  Twitch Helix  ·  Spotify Web API
                Tracker.gg  ·  Twitter API v2  ·  Anthropic Claude
-Hosting        GitHub Pages  ·  Railway
+Hosting        GitHub Pages
 Tools          OBS  ·  Streamlabs
 ```
 
