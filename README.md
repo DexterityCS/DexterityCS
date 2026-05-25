@@ -40,9 +40,9 @@ All widgets are hosted on GitHub Pages — paste the URL directly into OBS as a 
 | [**Challenge Wheel**](https://github.com/dexteritycs/Challenge-Wheel) | Channel points spin wheel — redeems trigger live spins in OBS via EventSub | [↗](https://dexteritycs.github.io/Challenge-Wheel/) |
 | [**Card Drop**](https://github.com/dexteritycs/Card-Drop) | TCG-style collectible card pulls triggered by channel points, 5 rarity tiers + holo effects | [↗](https://dexteritycs.github.io/Card-Drop/) |
 | [**Redeem Popup**](https://github.com/dexteritycs/redeem-popup) | On-stream notification card for any channel points redemption | [↗](https://dexteritycs.github.io/redeem-popup/) |
+| [**CS2 Hot Takes**](https://github.com/DexterityCS/CS2-Hot-Takes) | Channel points-triggered spicy CS2 hot takes delivered live on stream | [↗](https://dexteritycs.github.io/CS2-Hot-Takes/) |
 | [**Twitch Clip Wall**](https://github.com/dexteritycs/Twitch-Clips) | BRB screen that auto-cycles your recent clips via native MP4 playback *(WIP)* | [↗](https://dexteritycs.github.io/Twitch-Clips/) |
 | [**CS2 Stats Overlay**](https://github.com/dexteritycs/cs2-stats-overlay) | Live HUD pulling K/D, Win Rate, Premier Rating from Tracker.gg via Railway proxy *(WIP)* | [↗](https://dexteritycs.github.io/) |
-| [**CS2 Hot Takes**](https://github.com/DexterityCS/CS2-Hot-Takes) | Channel points-triggered spicy CS2 hot takes delivered live on stream | [↗](https://dexteritycs.github.io/CS2-Hot-Takes/) |
 
 ---
 
