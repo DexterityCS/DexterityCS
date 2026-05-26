@@ -46,11 +46,9 @@ All widgets are hosted on GitHub Pages — paste the URL directly into OBS as a 
 
 ---
 
-## CS2 Twitter Bot
+## CS2 Social Bot
 
-Automated [@dexterity_cs](https://twitter.com/dexterity_cs) posting engine. Runs locally, uses Claude AI to generate tweets in-voice across 6 content types (tips, hot takes, pro scene news, results, promos, polls) on a schedule tuned for peak CS2 engagement windows.
-
-→ [**dexteritycs/cs2-twitter-bot**](https://github.com/dexteritycs/cs2-twitter-bot)
+AI-powered posting engine for @dexteritycs.bsky.social (previously Twitter/X — switched to Bluesky due to Twitter API pricing). Runs locally, uses Claude AI to generate posts in-voice across 6 content types (tips, hot takes, pro scene news, results, promos, polls) on a schedule tuned for peak CS2 engagement windows.
 
 ---
  
