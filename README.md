@@ -17,6 +17,9 @@
 
 </div>
 
+[![Visitors](https://visitor-badge.liter.workers.dev/badge?page_id=dexteritycs.dexteritycs)](https://github.com/dexteritycs)
+![Profile Views](https://komarev.com/ghpvc/?username=dexteritycs&style=flat-square&color=ff8c1e&label=Profile+Views)
+
 ---
 
 ## About
