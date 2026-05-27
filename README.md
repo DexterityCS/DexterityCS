@@ -17,9 +17,11 @@
 
 </div>
 
-<div align="center"> 
+<div align="center">
+ 
 ![Profile Views](https://komarev.com/ghpvc/?username=dexteritycs&style=flat-square&color=ff8c1e&label=Profile+Views)
-
+ 
+</div>
 ---
 
 ## About
